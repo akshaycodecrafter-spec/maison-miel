@@ -1,4 +1,4 @@
-# Wildflour — Artisan Bakery
+# Maison Miel — Artisan Bakery
 
 A landing page concept for a warm, handcrafted-feeling artisan bakery in Connaught Place, New Delhi.
 
@@ -14,13 +14,13 @@ A landing page concept for a warm, handcrafted-feeling artisan bakery in Connaug
 
 ![Bestsellers section highlighting top-selling items with per-item and combo pricing](assets/preview-bestsellers.png)
 
-![Why Wildflour section featuring six value cards about ingredients and craft](assets/preview-why.png)
+![Why Maison Miel section featuring six value cards about ingredients and craft](assets/preview-why.png)
 
 ![Order section with WhatsApp and phone contact options](assets/preview-order.png)
 
 ## About
 
-Wildflour came from wanting a bakery site that felt handmade rather than corporate — most bakery landing pages either go overly cute or overly minimal, and I wanted something in between: warm tones, real texture, and enough detail (a founding year, a story section, a stats card) to feel like an actual neighborhood spot rather than a template. The whole page is built around the idea of a small team baking fresh, single-batch bread and pastries every morning.
+Maison Miel came from wanting a bakery site that felt handmade rather than corporate — most bakery landing pages either go overly cute or overly minimal, and I wanted something in between: warm tones, real texture, and enough detail (a founding year, a story section, a stats card) to feel like an actual neighborhood spot rather than a template. The whole page is built around the idea of a small team baking fresh, single-batch bread and pastries every morning.
 
 ## What's on the page
 
@@ -50,7 +50,7 @@ Same reasoning as my other landing-page concepts: for a single page like this, a
 ## Running it locally
 
 ```
-Wildflour/
+maison-miel/
 ├── index.html
 ├── css/
 │   └── style.css
