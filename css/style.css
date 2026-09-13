@@ -1,4 +1,8 @@
 :root {
+  color-scheme: light;
+}
+
+:root {
   --bg:           #e2d2c2;
   --bg-elev:      #dbcaba;
   --bg-elev-2:    #d3c0ae;

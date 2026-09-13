@@ -2,7 +2,7 @@
 
 A landing page concept for a warm, handcrafted-feeling artisan bakery in Connaught Place, New Delhi.
 
-🔗 **Live:** https://wildflour.akshaycodecrafter.workers.dev/
+🔗 **Live:** https://maison-miel.akshaycodecrafter.workers.dev/
 
 ## Preview
 
@@ -13,8 +13,6 @@ A landing page concept for a warm, handcrafted-feeling artisan bakery in Connaug
 ![Story section with the bakery's founding narrative and timeline cards](assets/preview-story.png)
 
 ![Bestsellers section highlighting top-selling items with per-item and combo pricing](assets/preview-bestsellers.png)
-
-![Why Maison Miel section featuring six value cards about ingredients and craft](assets/preview-why.png)
 
 ![Order section with WhatsApp and phone contact options](assets/preview-order.png)
 
