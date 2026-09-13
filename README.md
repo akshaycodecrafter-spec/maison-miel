@@ -2,7 +2,7 @@
 
 A landing page concept for a warm, handcrafted-feeling artisan bakery in Connaught Place, New Delhi.
 
-🔗 **Live:** https://wildflour.akshaycodecrafter.workers.dev/
+🔗 **Live:** https://maison-miel.akshaycodecrafter.workers.dev/
 
 ## Preview
 
